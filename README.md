@@ -38,7 +38,7 @@ ShopOrbit, modern bir **E-Commerce** projesidir. Bu projede, kullanıcılar ve a
 ### 1️⃣ Repository'yi Klonlama
 Projeyi bilgisayarınıza klonlayarak başlayın:
 ```bash
-git clone https://github.com/username/ShopOrbit.git
+git clone https://github.com/zwennnnn/ShopOrbit.git
 cd ShopOrbit
 ```
 
