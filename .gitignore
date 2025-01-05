@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+# Backend için özel ayarlar
+backend/.env
+backend/node_modules/
+backend/uploads/
+
+# Frontend için özel ayarlar
+frontend/.env
+frontend/node_modules/
